@@ -19,5 +19,4 @@ LearnSpace is a single-page educational resource hub designed to help learners e
 - CSS3
 - Bootstrap 5
 
-## 📂 Folder Structure
 
